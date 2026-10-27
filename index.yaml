@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sk014-myfirst-helmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-27T09:50:24.539321+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 6a016a4c924759e796c00bfc642e426abc0854e99274df41472174794c84c702
+    name: sk014-myfirst-helmchart
+    type: application
+    urls:
+    - https://j2nseo.github.io/mycharts/sk014-myfirst-helmchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-27T09:50:24.538557+09:00"
